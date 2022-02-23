@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from my Lord Howard of Escrick, to his friend together with his protestation, at his receiving the blessed Communion in the Tower, on July the third, 1681.</title>
+            <author>Howard of Escrick, William Howard, Baron, 1626?-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44663</idno>
+            <idno type="STC">Wing H3012</idno>
+            <idno type="STC">ESTC R4788</idno>
+            <idno type="EEBO-CITATION">11889923</idno>
+            <idno type="OCLC">ocm 11889923</idno>
+            <idno type="VID">50423</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50423)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 35:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from my Lord Howard of Escrick, to his friend together with his protestation, at his receiving the blessed Communion in the Tower, on July the third, 1681.</title>
+                  <author>Howard of Escrick, William Howard, Baron, 1626?-1694.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Roberts,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50423:1"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="1" facs="tcp:50423:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <head>A LETTER FROM MY Lord HOWARD OF ESCRICK, To his FRIEND.</head>
+            <head type="sub">TOGETHER With his PROTESTATION, at his Receiving the Bleſſed Communion in the <hi>TOWER,</hi> on <date>
+                  <hi>July</hi> the Third, 1681.</date>
+            </head>
+            <p>I Have not without very great amazement obſerved ſome paſſages rela<g ref="char:EOLhyphen"/>ting to the Tryal and Execution of Mr. <hi>Fitz-Harris.</hi> There are two times in which my Charity does oblige me to think men (eſpecially ſuch who ſtile themſelves Chriſtians) dare not ſpeak any thing in the leaſt deviating from truth; to wit, When they are near their appear<g ref="char:EOLhyphen"/>ance before the Tribunal of the great Judg of Heaven and Earth: Or at their approach to Gods Holy Table.</p>
+            <p>Upon the firſt Account I have laboured much with my ſelf to give Credit to what ſome Gentlemen of the <hi>Romiſh</hi> Perſwaſion have aſſerted of their Innocency in the very Article of Death. But on the other ſide, when I con<g ref="char:EOLhyphen"/>ſider the Principles of men under that Character, which allow nothing to be ſin that is for the good of Holy Church; and withall am morally certain of a Conformity in practiſe to ſuch principles: I hope they will not be of<g ref="char:EOLhyphen"/>fended if I declare my ſelf to be ſtill under the Temptation of Infidelity, man<g ref="char:EOLhyphen"/>ger
+<pb n="2" facs="tcp:50423:2"/>
+               <!-- PDF PAGE 27 -->all their round and daring ſelf-juſtifications. I have known Highway<g ref="char:EOLhyphen"/>men under ſentence in <hi>Newgate,</hi> confeſſing then their Crimes, and ſeemingly penitent under their guilt; yet on a ſudden with the Halter about their necks, have, to the ſurpriſal of the by-ſtanders (who have been privy to their Con<g ref="char:EOLhyphen"/>feſſions) affirmed themſelves wholly guiltleſs as to the matters for which they ſuffer'd; and yet they dyed in the <hi>Roman</hi> Catholick Religion. Which alſo was the Caſe of a Woman lately Burnt in <hi>Smithfield</hi> for Coyning. Such Inſtan<g ref="char:EOLhyphen"/>ces as theſe render all that they ſay of little validity with me. On the other hand, I reckon my ſelf very much obliged to the belief of a Sacramental Oath or Proteſtation, when made by one whoſe Principles will not allow the leaſt grain of Equivocation either with God or man, and whoſe Honour and Qua<g ref="char:EOLhyphen"/>lity, whoſe Behaviour and Converſation ſtrongly do aſſert the Credibility of their Teſtimony. And this I take to be the Caſe of this Honourable Peer, who in many particulars, to my own knowledge, has been falſly and ſlander<g ref="char:EOLhyphen"/>ouſly miſrepreſented to the undiſtinguiſhing and Credulous Multitude.</p>
+            <p>In order to my further ſatisfaction, having heard that his late partaking at the Holy Table of God, was attended with ſome notable Declaration, I pro<g ref="char:EOLhyphen"/>cured a friend preſent at the Adminiſtration, (whoſe memory would not reach to ſuch a particular Account as both he and I could wiſh) to write to my Lord, deſiring him to communicate what he there ſo ſolemnly aſſerted. The following Letter and Proteſtation was ſent for the ſatisfaction of his friend, who has been pleaſed to make it known to ſome others. And I beg his Lordſhips pardon if without his privity or leave, I take a courſe to make it more known, as Really judging it to be highly ſerviceable to the Proteſtant Intereſt.</p>
+            <div type="body_of_letter">
+               <opener>
+                  <salute>SIR,</salute>
+                  <dateline>TOWER, <date>
+                        <hi>July</hi> 5<hi rend="sup">th</hi> 1681.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>I</hi> Have great reaſon to thank you for your Chriſtian Endeavours, to deliver the world (ſo many of them as do yet continue under a de<g ref="char:EOLhyphen"/>ception) from thoſe miſtakes which ſome publick proceedings may (perhaps) have begot in the minds of divers, concerning that Libel for which <hi>Fitz-Harris</hi> lately ſuffered. I have always thought, and have every day more and more cauſe to think, that thoſe who ſeem to be moſt poſſeſt with a jealouſie of me, in relation to that ſcurrilous, as well as Treaſonable Pamphlet, have the leaſt need of any Arguments ei<g ref="char:EOLhyphen"/>ther Religious or Rational, to convince them of the contrary. It is not to them therefore that I direct this Proteſtation; but I very well know that there may be ſome (I hope they are very few) who by falſe repre<g ref="char:EOLhyphen"/>ſentations and bold aſſertions, may have been ſurpriſed into ſome belief of what has been ſo impudently ſworn by thoſe two perſons: theſe may (perhaps) upon good reaſons be as willing to lay down their prejudice. To ſuch, I confeſs, I would be willing to give all the ſatisfaction I can,
+<pb n="3" facs="tcp:50423:2"/>
+                  <!-- PDF PAGE 27 -->and if this Proteſtation made ſo ſolemnly under ſuch ſacred tyes of Reli<g ref="char:EOLhyphen"/>gion, of which you were an Eye and Ear-Witneſs, may in any degree con<g ref="char:EOLhyphen"/>duce to that end, I ſhould be glad it might be improved by you (as far as it will prevail) to that purpoſe. I have therefore here ſent it incloſed, and can aſſure you, that although I dare not undertake to avow this to be literally the ſame which I made upon that ſolemn occaſion; yet I will avow it to be the ſame in ſubſtance, and as near to the words as my memory can retain, or recollect a thing of this nature, which was ne<g ref="char:EOLhyphen"/>ver (in my own thoughts) brought into any premeditated form. I re<g ref="char:EOLhyphen"/>ſign it up to you to do what you pleaſe with it, being well aſſured that you will do that, and nothing but that, which may beſt anſwer a de<g ref="char:EOLhyphen"/>ſign both of Religion and Prudence. I am in great ſincerity,</p>
+               <closer>
+                  <signed>Your very Faithful, Affectionate Friend to Serve you, HOWARD.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="protestation">
+            <head>A Proteſtation made by the Lord <hi>Howard,</hi> immediately be<g ref="char:EOLhyphen"/>fore his Receiving the Sacrament, on <date>Sunday <hi>July</hi> the Third, 1681.</date>
+            </head>
+            <p>KNowing what Surmiſes and Diſcourſes there have been of late, concerning my being the principal Author, or (at leaſt) an Acceſſory to that Treaſonable Libel, for which Mr. <hi>Fitz-Harris</hi> was lately Condemned and Executed (which I have ſeveral times denied with great ſolemnity both in publick and in private): And being now (through the goodneſs of God) approaching to this holy Ordinance, I think it a neceſſary piece of Juſtice, which I owe not only to my ſelf, but to the Religion I profeſs, to make this Proteſtation, <hi>viz.</hi>
+            </p>
+            <p>I had neither directly nor indirectly, mediately or immediately, by my ſelf nor by any other, any hand, or was (in any way)
+<pb n="4" facs="tcp:50423:3"/>
+               <!-- PDF PAGE 28 -->privy or conſenting to, or knowing of the ſaid Libel, or any part thereof; or had any notice, conjecture, ſuſpicion, or imagination, that the ſaid <hi>Fitz-Harris,</hi> or any other perſon, did purpoſe or intend to make, frame, or compoſe the ſaid Libel or any part thereof, or any other Libel whatſoever, in defamation of the King, his Royal Anceſtors or Government, until ſuch time as I heard that the ſaid <hi>Fitz-Harris</hi> was apprehended, and committed to Priſon for the ſame. And I further proteſt, that I never ſaw nor heard the ſaid Libel or any part thereof read, or recited, or did know the con<g ref="char:EOLhyphen"/>nexion of any two words of it, before I heard the ſame read by the Kings Attorney General in the Houſe of Lords, in the Parliament Conven'd at <hi>Oxford.</hi> And Laſtly, I do proteſt, That I never was in that Houſe in <hi>Shandois-Street,</hi> where the ſaid <hi>Fitz-Harris</hi> was ta<g ref="char:EOLhyphen"/>ken, and where his Wife was ſoon after brought to Bed, ſave on<g ref="char:EOLhyphen"/>ly once in the Company of a Lady (whom I deſir'd to go along with me) at the earneſt requeſt of the ſaid Mrs. <hi>Fitz-Harris,</hi> ex<g ref="char:EOLhyphen"/>preſt in a Letter brought to me at my own Houſe, whilſt I was at Dinner, which (in point of time) was a week or more after the ſaid <hi>Fitz-Harris</hi> was in Priſon for the ſaid Libel.</p>
+            <p>According to the truth or falſhood of which Proteſtation, and of every part of it (in its natural and genuine Conſtruction) I do deſire to be made partaker or not partaker of the benefit of my bleſ<g ref="char:EOLhyphen"/>ſed Saviours death, which I am now about to commemorate in this Holy Sacrament.</p>
+            <p>If any perſon queſtion the Truth of this Proteſtation, I am in<g ref="char:EOLhyphen"/>formed, that the Miniſter before whom it was made, was a Reverend Divine of this City, <hi>viz.</hi> Mr. <hi>Timothy Hall,</hi> Miniſter of <hi>Allhal<g ref="char:EOLhyphen"/>lows-Staining</hi> in <hi>Mark-Lane,</hi> who I believe will atteſt the Truth of it to any enquiring perſon.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Robert Roberts.</hi> 1681.</p>
+            <pb facs="tcp:50423:3"/>
+            <!-- PDF PAGE 28 -->
+         </div>
+      </back>
+   </text>
+</TEI>
